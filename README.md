@@ -1,6 +1,6 @@
 # npmdoc-cordova-plugin-x-toast
 
-#### api documentation for  [cordova-plugin-x-toast (v2.6.0)](https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-cordova-plugin-x-toast.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cordova-plugin-x-toast) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-x-toast.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-x-toast)
+#### basic api documentation for  [cordova-plugin-x-toast (v2.6.0)](https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-cordova-plugin-x-toast.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cordova-plugin-x-toast) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-x-toast.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-x-toast)
 
 #### This plugin allows you to show a Toast. A Toast is a little non intrusive buttonless popup which automatically disappears.
 
@@ -79,7 +79,8 @@
         "url": "git+https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin.git"
     },
     "scripts": {},
-    "version": "2.6.0"
+    "version": "2.6.0",
+    "bin": {}
 }
 ```
 
